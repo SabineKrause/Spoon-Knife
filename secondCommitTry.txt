@@ -1,0 +1,1 @@
+dies ist mein erstes Commit zum geclonten spoon-knife project, dass ich auch in mein online.Repository pushen will. Mal sehen, ob's klappt!
